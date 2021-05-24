@@ -14,4 +14,4 @@
   - ".github/**/*"
   - ".devops/**/*"
 "📚 documentation":
-  - any: ["website/src/docs/**/*.md", "website/src/docs/**/*.mdx"]
+  - "website/src/docs/**/*"
