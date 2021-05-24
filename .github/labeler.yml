@@ -6,9 +6,9 @@
   - "src/MarshmallowPie/**/*"
 "🌶️ strawberry shake":
   - "src/StrawberryShake/**/*"
-"🌶️ website":
-  - any: ["website/**/*"]
-  - all: ["!website/src/docs/**/*.md", "!website/src/docs/**/*.mdx"]
+# "🌶️ website":
+#   - any: ["website/**/*"]
+#   - all: ["!website/src/docs/**/*.md", "!website/src/docs/**/*.mdx"]
 "🧰 maintenance":
   - ".build/**/*"
   - ".github/**/*"
