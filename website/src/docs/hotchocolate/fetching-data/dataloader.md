@@ -2,6 +2,8 @@
 title: "DataLoader"
 ---
 
+Test
+
 import { ExampleTabs } from "../../../components/mdx/example-tabs"
 
 > If you want to read more about data loaders in general, you can head over to Facebook's [GitHub repository](https://github.com/facebook/dataloader).
