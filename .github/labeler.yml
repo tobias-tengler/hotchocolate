@@ -6,10 +6,14 @@
   - "src/MarshmallowPie/**/*"
 "🌶️ strawberry shake":
   - "src/StrawberryShake/**/*"
+"🌶️ website":
+  - "website/**/*"
+  - "!website/src/docs/**/*.md"
+  - "!website/src/docs/**/*.mdx"
+"📚 documentation":
+  - "website/src/docs/**/*.md"
+  - "website/src/docs/**/*.mdx"
 "🧰 maintenance":
   - ".build/**/*"
   - ".github/**/*"
   - ".devops/**/*"
-"📚 documentation":
-  - "website/src/docs/**/*.md"
-  - "website/src/docs/**/*.mdx"
