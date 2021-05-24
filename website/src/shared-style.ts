@@ -1,5 +1,7 @@
 import { css, SimpleInterpolation } from "styled-components";
 
+export const miau = 0
+
 export const MobileBreakpoint = "450px";
 export function IsMobile(innerStyle: SimpleInterpolation) {
   return css`
