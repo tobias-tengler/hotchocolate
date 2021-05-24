@@ -7,12 +7,9 @@
 "🌶️ strawberry shake":
   - "src/StrawberryShake/**/*"
 "🌶️ website":
-  - "website/**/*"
-  - "!website/src/docs/**/*.md"
-  - "!website/src/docs/**/*.mdx"
+  - any: ['website/**/*', '!website/src/docs/**/*.md']
 "📚 documentation":
   - "website/src/docs/**/*.md"
-  - "website/src/docs/**/*.mdx"
 "🧰 maintenance":
   - ".build/**/*"
   - ".github/**/*"
